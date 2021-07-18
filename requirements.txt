@@ -10,3 +10,5 @@ pySmartDL
 google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
+pyrogram
+https://github.com/pyrogram/pyrogram/archive/refs/tags/v1.2.0.zip
